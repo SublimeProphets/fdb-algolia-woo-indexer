@@ -12,7 +12,7 @@ This plugin transfers products from WooCommerce to Algolia. You can choose if it
 
 You need to add the Application ID, the Admin API Key from the `API keys` section in Algolia as well as the Index Name.
 
-Note that this plugin is designed for developers developing headless Ecommerce solutions.
+Note that this plugin is designed for developers developing headless Ecommerce solutions with WooCommerce.
 
 ### This plugin will NOT submit products without a category
 
